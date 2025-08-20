@@ -1,4 +1,4 @@
-👋I’m MaryamTaghavi. I'm Interested in .Net and Angular.
+👋I’m MaryamTaghavi. I'm Interested in .Net .
 I have over 8 years of experience working with Kafka, RabbitMQ, microservices architecture, clean code principles, Elasticsearch, Serilog, and more. I am passionate about learning and can dedicate long hours at my desk to debugging and solving complex issues.
 
 <p align="center">
